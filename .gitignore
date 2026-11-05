@@ -1,0 +1,16 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos del sistema (Mac)
+.DS_Store
+
+# Archivos de editor (VS Code, PyCharm, etc)
+.vscode/
+.idea/
